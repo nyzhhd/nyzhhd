@@ -11,7 +11,7 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-<strong>Hi, I am Volcano-Yang!👋 </strong>
+<strong>Hi, I am nyzhhd!👋 </strong>
 
 <strong>A full stack developer from China🇨🇳. </strong>
 
@@ -33,7 +33,7 @@
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:648941183@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-chaozew6@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:chaozew6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chaozew6@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
