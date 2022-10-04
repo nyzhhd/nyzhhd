@@ -28,7 +28,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
-![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=Matlab)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C)
 
 
