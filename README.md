@@ -18,6 +18,7 @@
 </pre> 
 
 <img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+<embed src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg" type="image/svg+xml" width="100%" height="auto" />
 
 
 ### ⭐️ &nbsp;Github Star
