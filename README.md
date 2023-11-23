@@ -17,7 +17,11 @@
 
 </pre> 
 
-#<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+<object type="image/svg+xml" data="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg" width="100%" height="auto">  
+    <!-- 备用内容，在无法加载SVG的情况下显示 -->  
+    备用文本  
+</object>
 
 ### ⭐️ &nbsp;Github Star
 
