@@ -25,6 +25,6 @@
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/nyzhhd/count.svg" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nyzhhd" alt="visitor badge"/>
 
 
