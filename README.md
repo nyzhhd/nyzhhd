@@ -2,7 +2,7 @@
       
 <strong>Hi, I am nyzhhd!👋 </strong>
 
-<strong>A small vegetable chicken from China🇨🇳. </strong>
+<strong>A student from China🇨🇳. </strong>
 
 </pre> 
 
